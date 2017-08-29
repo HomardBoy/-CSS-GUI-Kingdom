@@ -5,5 +5,4 @@ Feel free to use theme, just don't forget to mention me :D
 Content :
 
   ✔ Flat login page 
-  
-![ScreenShot](https://raw.github.com/HomardBoy/GUI-Kingdom/master/Flat Login page/screenshot.png)
+  Screenshot : https://github.com/HomardBoy/GUI-Kingdom/blob/master/Flat%20Login%20page/screenshot.png
