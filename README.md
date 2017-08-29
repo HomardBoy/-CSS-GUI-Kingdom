@@ -1,2 +1,7 @@
-# -CSS-GUI-Kingdom
-A bunch of CSS look made juste for fun.
+# GUI-Kingdom
+A collection of CSS GUI made for fun.
+Feel free to use theme, just don't forget to mention me :D
+
+Content :
+
+  - Flat login page ✔
