@@ -6,4 +6,4 @@ Content :
 
   ✔ Flat login page 
   
-![ScreenShot](https://raw.github.com/HomardBoy/GUI-Kingdom/blob/master/Flat Login page/screenshot.png)
+![ScreenShot](https://raw.github.com/HomardBoy/GUI-Kingdom/master/Flat Login page/screenshot.png)
