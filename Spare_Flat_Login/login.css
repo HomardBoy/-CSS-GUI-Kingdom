@@ -1,0 +1,233 @@
+body{
+  background-color: #cdd3d5;
+}
+
+a{
+  text-decoration: inherit;
+  color: inherit;
+}
+
+.white_box{
+  position: relative;
+  box-shadow: 0px 0px 5px;
+  height: 600px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  border-radius: 2px;
+  background-color: white;
+}
+
+.white_box_login{
+  position: absolute;
+  height: 100px;
+  width: 300px;
+  float: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.white_box_sign{
+  position: absolute;
+  float: right;
+  height: 100px;
+  width: 300px;
+  margin-left: 300px;
+  background-color: #d0d4d6;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.txt_login{
+  padding-top: 30px;
+}
+
+.txt_sign{
+  padding-top: 30px;
+  color: #969ea1;
+}
+
+.white_box_usable{
+  position: absolute;
+  height: 500px;
+  width: 600px;
+  top: 100px;
+}
+
+.description_box{
+    height: 70px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+}
+
+.desciption_txt{
+  padding-top: 25px;
+  color: #404547;
+}
+
+.email_box{
+  height: 70px;
+  border-top: 2px;
+  border-style: solid;
+  border-top-color: #d0d4d6;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom-color: white;
+}
+
+.email_txt{
+  position: absolute;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 19px;
+  font-weight: bold;
+  padding-left: 42px;
+  padding-top: 20px;
+}
+
+input[type="email"]{
+  border-style: none;
+  font-size: 20px;
+}
+
+.pass_box{
+  height: 70px;
+  margin-top: 25px;
+  border-top: 2px;
+  border-style: solid;
+  border-top-color: #d0d4d6;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom-color: white;
+}
+
+input[type="password"]{
+  border-style: none;
+  font-size: 17px;
+}
+
+.login_box{
+  height: 80px;
+  margin-top: 25px;
+  border-top: 2px;
+  border-style: solid;
+  border-top-color: #d0d4d6;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom-color: white;
+}
+
+.left_login_box{
+  height: 80px;
+  width: 300px;
+  float: left;
+}
+
+.right_login_box{
+  height: 80px;
+  width: 300px;
+  float: left;
+}
+
+.forgot{
+  color: red;
+  font-size: 18px;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.forgot_txt{
+  padding-top: 14px;
+}
+
+.login_btn{
+  text-align: center;
+  padding-top: 20px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+button[type="button"]{
+  height: 50px;
+  width: 270px;
+  font-size: 20px;
+  border-radius: 0px;
+  border-style: none;
+  background-color: #3dc141;
+  color: white;
+  font-weight: bold;
+}
+
+.facebook_box{
+  height: 72px;
+}
+
+.left_facebook_box{
+  float: left;
+  height: 72px;
+  width: 72px;
+  background-color: #283f6f;
+  color: white;
+  text-align: center;
+  font-size: 32px;
+}
+
+.right_facebook_box{
+  float: right;
+  height: 72px;
+  width: 528px;
+  background-color: #3b5998;
+  color: white;
+  font-weight: bold;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+  font-size: 110%;
+}
+
+.facebook_txt{
+  margin-top: 25px;
+}
+
+.fb{
+  padding-top: 20px;
+}
+
+.google_box{
+  height: 75px;
+}
+
+.left_google_box{
+  float: left;
+  height: 73px;
+  width: 72px;
+  background-color: #b82d22;
+  color: white;
+  text-align: center;
+  font-size: 32px;
+}
+
+.google{
+  margin-top: 20px;
+}
+
+.right_google_box{
+  float: right;
+  height: 73px;
+  width: 528px;
+  background-color: #e1382b;
+  color: white;
+  font-weight: bold;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+  font-size: 110%;
+}
+
+.google_txt{
+  margin-top: 25px;
+}
