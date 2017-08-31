@@ -18,3 +18,7 @@ Content :
   #### • Simple weather [static]
    ![Screenshot](https://github.com/HomardBoy/GUI-Kingdom/blob/master/Simple-weather/Screenshot.png)
    Process : https://youtu.be/neFXCxmbw-U
+
+#### • Flat music player [static]
+   ![Screenshot](https://github.com/HomardBoy/GUI-Kingdom/blob/master/Flat_Music_Player/Screenshot.png)
+   Process : https://www.youtube.com/watch?v=0SqP0m6EMk4
