@@ -14,3 +14,7 @@ Content :
   
   #### • Spare login page [working]
   ![Screenshot](https://github.com/HomardBoy/GUI-Kingdom/blob/master/Spare_Flat_Login/Screenshot.png)
+
+  #### • Simple weather [static]
+   ![Screenshot](https://github.com/HomardBoy/GUI-Kingdom/blob/master/Simple-weather/Screenshot.png)
+   Process : https://youtu.be/neFXCxmbw-U
