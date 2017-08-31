@@ -1,0 +1,181 @@
+body{
+  background-color: #B6B6B6;
+}
+
+img{
+  height: 450px;
+}
+
+.big_box{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  position: relative;
+  height: 700px;
+  width: 450px;
+  background-color: white;
+}
+
+.top_box{
+  position: absolute;
+  height: 130px;
+  width: 450px;
+  background-color: #242524
+}
+
+.icon_top1{
+  position: absolute;
+  height: 50px;
+  width: 450px;
+  float: left;
+  color: #FA4D66;
+  font-size: 35px;
+  margin-left: 18px;
+  margin-top: 18px;
+}
+
+.icon_top2{
+  position: absolute;
+  height: 50px;
+  width: 450px;
+  float: right;
+  color: #FA4D66;
+  font-size: 35px;
+  margin-left: 400px;
+  margin-top: 17px;
+}
+
+.title_song{
+  color: #B4B4B4;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 43px
+}
+
+.artist{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: #616161;
+  font-size: 17px;
+  padding-bottom: 20px;
+}
+
+.bottom_box{
+  position: absolute;
+  height: 180px;
+  width: 450px;
+  margin-top: 520px;
+  background-color: #242524
+}
+
+.progress{
+    position: absolute;
+    height: 5px;
+    width: 450px;
+    background-color: #B4B4B4;
+}
+
+.progress_red{
+  position: absolute;
+  height: 5px;
+  width: 250px;
+  background-color: #FA4D66;
+}
+
+.progress_dot{
+  position: absolute;
+  border-radius: 100%;
+  height: 15px;
+  width: 15px;
+  margin-left: 248px;
+  margin-top: -5px;
+  background-color: #FA4D66;
+}
+
+.time_stamp_box1{
+  position: absolute;
+  height: 40px;
+  width: 450px;
+  float: left;
+  color: #B4B4B4;
+  margin-top: 14px;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 18px;
+}
+
+.time_stamp_box2{
+  position: absolute;
+  height: 40px;
+  width: 450px;
+  float: right;
+  color: #B4B4B4;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 14px;
+  margin-left: 400px;
+}
+
+.play_btn{
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  margin-left: 180px;
+  margin-top: 40px;
+  background-color: #FA4D66;
+  text-align: center;
+  color: white;
+  font-size: 62px;
+}
+
+.play_icon{
+  margin-left: 12px;
+  margin-top: 12px;
+}
+
+.icon_box{
+  position: absolute;
+  height: 55px;
+  width: 450px;
+  margin-top: 62px;
+}
+
+.repeat{
+  margin-top: 8px;
+  margin-left: 50px;
+  color: #FA4D66;
+  font-size: 34px;
+}
+
+.backward{
+  margin-top: -48px;
+  margin-left: 80px;
+  color: #FA4D66;
+  font-size: 45px;
+}
+
+.forward{
+  color: #FA4D66;
+  font-size: 45px;
+  margin-top: -54px;
+  margin-left: 250px;
+}
+
+.alea{
+  color: #FA4D66;
+  font-size: 34px;
+  margin-top: -45px;
+  margin-left: 315px;
+}
+
+.next_box{
+  background-color: #FA4D66;
+  height: 20px;
+  margin-top: 160px;
+  width: 450px;
+  text-align: center;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
