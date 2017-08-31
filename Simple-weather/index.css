@@ -1,0 +1,173 @@
+body{
+  background-color: #7796c2;
+}
+
+.white_box{
+  position: relative;
+  height: 500px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 110px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+
+.top_box{
+  position: absolute;
+  height: 260px;
+  width: 500px;
+  background-color: #446ba5;
+  border-radius: 5px;
+}
+
+.close_bottom_box{
+  position: absolute;
+  width: 500px;
+  height: 10px;
+  top: 255px;
+  background-color: #446ba5;
+}
+
+.city_box{
+  position: absolute;
+  height: 60px;
+  width: 500px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  margin-left: 24px;
+  float: left;
+}
+
+.city_txt{
+  margin-top: 20px;
+}
+
+.weather_box{
+  height: 100px;
+  width: 50px;
+  float: left;
+  margin-top: 90px;
+}
+
+.weather_txt{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 24px;
+    float: left;
+}
+
+.temp_box{
+  position: absolute;
+  height: 100px;
+  width: 170px;
+  margin-top: 120px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  left: 24px;
+  float: left;
+}
+
+.real_temp_box{
+  position: absolute;
+  height: 100px;
+  width: 120px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+  margin-left: 24px;
+  margin-top: 175px;
+  float: left;
+}
+
+.icon_top{
+  position: absolute;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 130px;
+  float: right;
+  height: 200px;
+  width: 200px;
+  margin-left: 250px;
+  margin-top: 80px;
+}
+
+.bottom_box{
+  position: absolute;
+  height: 240px;
+  width: 500px;
+  margin-top: 260px;
+}
+
+.left_bottm_box{
+  position: absolute;
+  height: 240px;
+  width: 166px;
+  margin-top: 260px;
+}
+
+.middle_bottm_box{
+    position: absolute;
+    height: 240px;
+    width: 166px;
+    margin-top: 260px;
+    margin-left: 166px;
+}
+
+.right_bottm_box{
+    position: absolute;
+    height: 240px;
+    width: 166px;
+    margin-top: 260px;
+    margin-left: 332px;
+}
+
+.top_box_bottom{
+  position: absolute;
+  height: 30px;
+  width: 166px;
+  margin-top: 28px;
+  text-align: center;
+  color: grey;
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+}
+
+.top_box_bottom-middle{
+  position: absolute;
+  height: 30px;
+  width: 166px;
+  margin-top: 28px;
+  text-align: center;
+  color: grey;
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+}
+
+.top_box_bottom-right{
+  position: absolute;
+  height: 30px;
+  width: 166px;
+  margin-top: 28px;
+  text-align: center;
+  color: grey;
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+}
+
+.weather_box_bottom{
+  position: absolute;
+  height: 100px;
+  width: 130px;
+  left: 24px;
+  font-size: 75px;
+  color: #446ba5;
+  top: 100px;
+}
