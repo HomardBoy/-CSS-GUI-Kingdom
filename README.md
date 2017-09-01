@@ -22,3 +22,7 @@ Content :
 #### • Flat music player [static]
    ![Screenshot](https://github.com/HomardBoy/GUI-Kingdom/blob/master/Flat_Music_Player/Screenshot.png)
    Process : https://www.youtube.com/watch?v=0SqP0m6EMk4
+   
+#### • Flat notifications bar [static]
+   ![Screenshot](https://github.com/HomardBoy/GUI-Kingdom/blob/master/Flat_Notifications_Bar/Screenshot.png)
+   Process : https://youtu.be/fFTyxYup4GI
