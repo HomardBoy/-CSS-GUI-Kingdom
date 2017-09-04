@@ -26,3 +26,7 @@ Content :
 #### • Flat notifications bar [static]
    ![Screenshot](https://github.com/HomardBoy/GUI-Kingdom/blob/master/Flat_Notifications_Bar/Screenshot.png)
    Process : https://youtu.be/fFTyxYup4GI
+
+### • Simple profil card [static]
+  ![Screenshot](https://github.com/HomardBoy/GUI-Kingdom/blob/master/Simple_Profil_Card/Screenshot.png)
+  
