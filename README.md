@@ -29,4 +29,5 @@ Content :
 
 ### • Simple profil card [static]
   ![Screenshot](https://github.com/HomardBoy/GUI-Kingdom/blob/master/Simple_Profil_Card/Screenshot.png)
+  Process : https://youtu.be/0ns8wYaFPk8
   
